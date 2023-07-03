@@ -1,0 +1,12 @@
+Q1) Time complexity--o(n)
+    
+Q2) Time complexity--o(sqrt(n))
+
+
+Q3)Time complexity--o(max(a,b))
+
+
+Q4)Time complexity-->o(logxn)
+
+
+Q5)Time complexity-->o(n*2logn)
